@@ -1,0 +1,9 @@
+@media screen and (max-width:992px){
+    #about .right{
+        margin-top: 40px !important;
+    }
+    #about .right p{
+        width: 100% !important;
+    }
+    
+}

@@ -33,3 +33,19 @@ header .Home .overlay{
     color: white !important;
     border-radius: 5px;
 }
+
+#about .left h3{
+    margin-top: 50px;
+}
+#about .left a{
+    border: 1px solid black;
+    background-color: black;
+    width: fit-content;
+    padding: 12px 18px;
+    transition: all .5s ease-in-out;
+}
+#about .left a:hover{
+    color: black;
+    background-color: rgb(209, 209, 37);
+    border: 1px solid rgb(209, 209, 37);
+}
